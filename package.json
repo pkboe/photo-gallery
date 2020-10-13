@@ -1,10 +1,14 @@
 {
   "name": "photo-gallery",
   "version": "0.0.1",
+  "homepage": "/",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "^2.4.2",
     "@capacitor/core": "2.4.2",
+    "@ionic/pwa-elements": "^3.0.1",
     "@ionic/react": "^5.0.7",
+    "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "^5.0.7",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
